@@ -1,6 +1,16 @@
 
+test conflict
+test conflicttest conflict
+test conflict
+test conflict
 
 more add
 more add
 more add
 more add
+
+add to feature branch
+add to feature branch
+add to feature branch
+add to feature branch
+
